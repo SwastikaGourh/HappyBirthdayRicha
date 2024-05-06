@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+    color: pink;
+    display: flex;
+    justify-content: center; /* Centering horizontally */
+    align-items: center; /* Centering vertically */
+    height: 100vh; /* Making sure the container is centered vertically */
+}
+
+button {
+    align-items: center;
+    background-color: pink;
+    text-emphasis-color: beige;
+    width: 100px;
+    height: 50px;
+}
+
+.container {
+    width: 80%;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: rgb(216, 21, 54);
+}
+
+p {
+    color: rgb(216, 21, 54);
+    font-size: 18px;
+}
+
+.birthday-girl {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.message {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 50px;
+}
+#giftimg {
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 250px;
+}
